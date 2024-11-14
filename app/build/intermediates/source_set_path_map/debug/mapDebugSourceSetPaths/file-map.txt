@@ -1,0 +1,54 @@
+com.example.budgetapplication.app-core-1.13.1-0 C:\Users\adm1\.gradle\caches\transforms-4\0215df2870934f349bf77dc4d1512c4a\transformed\core-1.13.1\res
+com.example.budgetapplication.app-customview-poolingcontainer-1.0.0-1 C:\Users\adm1\.gradle\caches\transforms-4\071b351194f877e343061585840d807e\transformed\customview-poolingcontainer-1.0.0\res
+com.example.budgetapplication.app-ui-text-release-2 C:\Users\adm1\.gradle\caches\transforms-4\1f8c8fd7aa6f4e40544943bb0be7ed1b\transformed\ui-text-release\res
+com.example.budgetapplication.app-navigation-compose-2.8.3-3 C:\Users\adm1\.gradle\caches\transforms-4\2166777ac2e5a70323ebc993ef2b9ecf\transformed\navigation-compose-2.8.3\res
+com.example.budgetapplication.app-material-release-4 C:\Users\adm1\.gradle\caches\transforms-4\25402a2e3b668925f0e64170f7b9dce6\transformed\material-release\res
+com.example.budgetapplication.app-lifecycle-viewmodel-savedstate-2.8.6-5 C:\Users\adm1\.gradle\caches\transforms-4\294924308263389fd73bc6e748fea5df\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.budgetapplication.app-ui-graphics-release-6 C:\Users\adm1\.gradle\caches\transforms-4\2bab07e6f7feae1745d6c07262f319b2\transformed\ui-graphics-release\res
+com.example.budgetapplication.app-navigation-common-2.8.3-7 C:\Users\adm1\.gradle\caches\transforms-4\2ca17a563d9290cd94ec7fdd2db63802\transformed\navigation-common-2.8.3\res
+com.example.budgetapplication.app-savedstate-ktx-1.2.1-8 C:\Users\adm1\.gradle\caches\transforms-4\30010540ec2e6483cf9310d0347ead81\transformed\savedstate-ktx-1.2.1\res
+com.example.budgetapplication.app-emoji2-1.3.0-9 C:\Users\adm1\.gradle\caches\transforms-4\3dc2ebcc8934736e65b401ff5175b7a6\transformed\emoji2-1.3.0\res
+com.example.budgetapplication.app-activity-compose-1.9.3-10 C:\Users\adm1\.gradle\caches\transforms-4\4031d71cc04671a8d196efe05ee4e40a\transformed\activity-compose-1.9.3\res
+com.example.budgetapplication.app-activity-ktx-1.9.3-11 C:\Users\adm1\.gradle\caches\transforms-4\41989e1424f94e3294226d0fed0df37c\transformed\activity-ktx-1.9.3\res
+com.example.budgetapplication.app-navigation-common-ktx-2.8.3-12 C:\Users\adm1\.gradle\caches\transforms-4\429135757a9fcd18d2fb62fd2955b93d\transformed\navigation-common-ktx-2.8.3\res
+com.example.budgetapplication.app-lifecycle-runtime-compose-release-13 C:\Users\adm1\.gradle\caches\transforms-4\5035a635d8629def08bda45dba032fb3\transformed\lifecycle-runtime-compose-release\res
+com.example.budgetapplication.app-ui-test-manifest-1.7.2-14 C:\Users\adm1\.gradle\caches\transforms-4\580a13077386b126a6c3a77948fa7c6d\transformed\ui-test-manifest-1.7.2\res
+com.example.budgetapplication.app-material-ripple-release-15 C:\Users\adm1\.gradle\caches\transforms-4\600d3f3e8294d7dc83283443e338f36f\transformed\material-ripple-release\res
+com.example.budgetapplication.app-navigation-runtime-2.8.3-16 C:\Users\adm1\.gradle\caches\transforms-4\60f405dd5c3c9e4ddad2372723924f03\transformed\navigation-runtime-2.8.3\res
+com.example.budgetapplication.app-startup-runtime-1.1.1-17 C:\Users\adm1\.gradle\caches\transforms-4\685be97b05258561d32b90d507272e86\transformed\startup-runtime-1.1.1\res
+com.example.budgetapplication.app-lifecycle-process-2.8.6-18 C:\Users\adm1\.gradle\caches\transforms-4\6dce3c011d0050e4c89f9625e3234712\transformed\lifecycle-process-2.8.6\res
+com.example.budgetapplication.app-navigation-runtime-ktx-2.8.3-19 C:\Users\adm1\.gradle\caches\transforms-4\6e0ce101e51d2eee598051d4bc0ab859\transformed\navigation-runtime-ktx-2.8.3\res
+com.example.budgetapplication.app-animation-release-20 C:\Users\adm1\.gradle\caches\transforms-4\70235277df34b19a8ae555b79299cb0a\transformed\animation-release\res
+com.example.budgetapplication.app-core-ktx-1.13.1-21 C:\Users\adm1\.gradle\caches\transforms-4\74db31d80acd98733a418897be36037b\transformed\core-ktx-1.13.1\res
+com.example.budgetapplication.app-animation-core-release-22 C:\Users\adm1\.gradle\caches\transforms-4\766394f4bbc83dd81ae14861ad5e6247\transformed\animation-core-release\res
+com.example.budgetapplication.app-profileinstaller-1.3.1-23 C:\Users\adm1\.gradle\caches\transforms-4\797cbbcecb592479f8d7b60b7b86d326\transformed\profileinstaller-1.3.1\res
+com.example.budgetapplication.app-foundation-release-24 C:\Users\adm1\.gradle\caches\transforms-4\7b828cd3de946a175b1d8d170f2bade0\transformed\foundation-release\res
+com.example.budgetapplication.app-ui-util-release-25 C:\Users\adm1\.gradle\caches\transforms-4\88b04caf1be380e09fcc6761db06598f\transformed\ui-util-release\res
+com.example.budgetapplication.app-foundation-layout-release-26 C:\Users\adm1\.gradle\caches\transforms-4\8b9c3eaf596fddfe6bf6fa04128e78e4\transformed\foundation-layout-release\res
+com.example.budgetapplication.app-material-icons-core-release-27 C:\Users\adm1\.gradle\caches\transforms-4\8bb0bdd6d6f789a95d12ad67d4b9fc7e\transformed\material-icons-core-release\res
+com.example.budgetapplication.app-lifecycle-runtime-ktx-release-28 C:\Users\adm1\.gradle\caches\transforms-4\917ad50f8ae915b1561c17f3d05adcd1\transformed\lifecycle-runtime-ktx-release\res
+com.example.budgetapplication.app-runtime-saveable-release-29 C:\Users\adm1\.gradle\caches\transforms-4\9524f5039c7b68fc2e996802bd917fae\transformed\runtime-saveable-release\res
+com.example.budgetapplication.app-material3-release-30 C:\Users\adm1\.gradle\caches\transforms-4\9607f7da3ea43a9f445ffe05dbf1970d\transformed\material3-release\res
+com.example.budgetapplication.app-ui-geometry-release-31 C:\Users\adm1\.gradle\caches\transforms-4\9e7dbe87c72b1bd107dfc3d08aeddd05\transformed\ui-geometry-release\res
+com.example.budgetapplication.app-lifecycle-viewmodel-ktx-2.8.6-32 C:\Users\adm1\.gradle\caches\transforms-4\a10c00eb944f05d073868aee62ba8703\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.example.budgetapplication.app-ui-release-33 C:\Users\adm1\.gradle\caches\transforms-4\a41d367194bd57cbf39c2a0d04955ea2\transformed\ui-release\res
+com.example.budgetapplication.app-lifecycle-runtime-release-34 C:\Users\adm1\.gradle\caches\transforms-4\a918e2c89d58247c143ecf5bf82e5886\transformed\lifecycle-runtime-release\res
+com.example.budgetapplication.app-ui-tooling-release-35 C:\Users\adm1\.gradle\caches\transforms-4\aaaf43fa70f1b899709f6c023960f0fb\transformed\ui-tooling-release\res
+com.example.budgetapplication.app-ui-tooling-data-release-36 C:\Users\adm1\.gradle\caches\transforms-4\aafc7eb2dcae2a936daa65d9a7baf104\transformed\ui-tooling-data-release\res
+com.example.budgetapplication.app-lifecycle-viewmodel-compose-release-37 C:\Users\adm1\.gradle\caches\transforms-4\ad2d144b982e626e24fd113e2286879f\transformed\lifecycle-viewmodel-compose-release\res
+com.example.budgetapplication.app-savedstate-1.2.1-38 C:\Users\adm1\.gradle\caches\transforms-4\ae8f50fe12a7225e6f291bf8f958f78f\transformed\savedstate-1.2.1\res
+com.example.budgetapplication.app-ui-unit-release-39 C:\Users\adm1\.gradle\caches\transforms-4\b62e578ee51ce2b939bc54ce1a3ee9d1\transformed\ui-unit-release\res
+com.example.budgetapplication.app-runtime-release-40 C:\Users\adm1\.gradle\caches\transforms-4\b8f7027bdbb41a10afff28c68b4ff671\transformed\runtime-release\res
+com.example.budgetapplication.app-lifecycle-livedata-core-2.8.6-41 C:\Users\adm1\.gradle\caches\transforms-4\bec573bb6ff00acf429944b7f9df35d7\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.budgetapplication.app-core-runtime-2.2.0-42 C:\Users\adm1\.gradle\caches\transforms-4\c48021ba0e0b4d799c80ccf0c78ecebb\transformed\core-runtime-2.2.0\res
+com.example.budgetapplication.app-lifecycle-viewmodel-release-43 C:\Users\adm1\.gradle\caches\transforms-4\cd866f37fad674acf94cd2ecec4c33d5\transformed\lifecycle-viewmodel-release\res
+com.example.budgetapplication.app-graphics-path-1.0.1-44 C:\Users\adm1\.gradle\caches\transforms-4\e2952fa432e5fea96f9d4b57b302e161\transformed\graphics-path-1.0.1\res
+com.example.budgetapplication.app-activity-1.9.3-45 C:\Users\adm1\.gradle\caches\transforms-4\ecd92470178a470063793b67ff778900\transformed\activity-1.9.3\res
+com.example.budgetapplication.app-ui-tooling-preview-release-46 C:\Users\adm1\.gradle\caches\transforms-4\f0bc4f6d3b3dd250e4b3981c919b2184\transformed\ui-tooling-preview-release\res
+com.example.budgetapplication.app-annotation-experimental-1.4.1-47 C:\Users\adm1\.gradle\caches\transforms-4\f14f341059f0087a43d68dfb8bd51d9a\transformed\annotation-experimental-1.4.1\res
+com.example.budgetapplication.app-resValues-48 C:\Users\adm1\Desktop\Mobile Applications\BudgetApplication\app\build\generated\res\resValues\debug
+com.example.budgetapplication.app-packageDebugResources-49 C:\Users\adm1\Desktop\Mobile Applications\BudgetApplication\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.budgetapplication.app-packageDebugResources-50 C:\Users\adm1\Desktop\Mobile Applications\BudgetApplication\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.budgetapplication.app-debug-51 C:\Users\adm1\Desktop\Mobile Applications\BudgetApplication\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.budgetapplication.app-debug-52 C:\Users\adm1\Desktop\Mobile Applications\BudgetApplication\app\src\debug\res
+com.example.budgetapplication.app-main-53 C:\Users\adm1\Desktop\Mobile Applications\BudgetApplication\app\src\main\res
